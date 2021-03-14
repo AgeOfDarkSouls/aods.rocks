@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="59.08569mm"
+   height="59.08569mm"
+   viewBox="0 0 59.085689 59.08569"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Spotify pelkkälogo nettisivulle1.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <path
+         d="M 0,170.04 H 566.93 V 0 H 0 Z"
+         id="path24" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath178">
+      <path
+         d="M 0,170.05 H 170.05 V 0 H 0 Z"
+         id="path176" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-589.89321"
+     inkscape:cy="-58.24314"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Taso 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-380.71316,-219.86074)">
+    <path
+       d="m 427.73139,246.05096 c -9.52289,-5.65538 -25.23067,-6.17537 -34.3214,-3.4163 -1.46015,0.44309 -3.00391,-0.381 -3.44594,-1.84079 -0.44238,-1.46085 0.38065,-3.00355 1.8415,-3.44735 10.43588,-3.16759 27.78337,-2.55587 38.74629,3.95182 1.3134,0.77964 1.74379,2.47544 0.96556,3.78636 -0.77894,1.31304 -2.47615,1.7459 -3.78601,0.96626 m -0.31186,8.37636 c -0.66816,1.08408 -2.08562,1.42416 -3.1683,0.75847 -7.93891,-4.87998 -20.04554,-6.29391 -29.43824,-3.44276 -1.21779,0.36795 -2.50438,-0.31856 -2.87444,-1.53458 -0.36689,-1.21779 0.31997,-2.5019 1.536,-2.87232 10.72973,-3.25614 24.06861,-1.67922 33.18721,3.92466 1.08268,0.66675 1.42346,2.08491 0.75777,3.16653 m -3.61491,8.04439 c -0.53093,0.87065 -1.66441,1.14335 -2.53189,0.61278 -6.93738,-4.24004 -15.66933,-5.19748 -25.9528,-2.84869 -0.99095,0.22719 -1.97873,-0.3937 -2.20451,-1.3843 -0.22719,-0.99095 0.39158,-1.97873 1.38465,-2.20486 11.25361,-2.57245 20.90667,-1.46544 28.69353,3.29283 0.86819,0.53023 1.14159,1.66441 0.61102,2.53224 m -13.54879,-42.61097 c -16.31562,0 -29.54267,13.2267 -29.54267,29.54232 0,16.31738 13.22705,29.54337 29.54267,29.54337 16.31633,0 29.54302,-13.22599 29.54302,-29.54337 0,-16.31562 -13.22669,-29.54232 -29.54302,-29.54232"
+       style="fill:#1ed760;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path182" />
+  </g>
+</svg>
