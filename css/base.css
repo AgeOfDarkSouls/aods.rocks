@@ -56,6 +56,15 @@ nav li {
     vertical-align: middle;
 }
 
+nav a img {
+    transition: 50ms ease-in-out;
+}
+
+nav a:hover img {
+    filter: contrast(150%) brightness(75%);
+    transform: scale(1.1);
+}
+
 #banneri img {
     max-width: min(93vw, 61em);
     min-width: 70vw;
